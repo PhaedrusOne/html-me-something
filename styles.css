@@ -17,3 +17,7 @@ h1 {
     padding-bottom: 50px;
     padding-left: 80px;
 }
+
+body {
+    background-color: rgb(173, 226, 230);
+}
