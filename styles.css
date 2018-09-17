@@ -21,3 +21,10 @@ h1 {
 body {
     background-color: rgb(173, 226, 230);
 }
+
+#my {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+} 
